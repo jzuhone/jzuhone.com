@@ -4,7 +4,7 @@
 :save_as: index.html
 :status: hidden
 
-I am currently an astrophysicist in the `NASA Postdoctoral Program <http://nasa.orau.org>`_  at `NASA's Goddard Space Flight
+I am currently an astrophysicist at `NASA's Goddard Space Flight
 Center <http://astrophysics.gsfc.nasa.gov>`_, working on galaxy cluster
 merger simulations with `Maxim
 Markevitch <http://hea-www.harvard.edu/~maxim/>`_. I received my
