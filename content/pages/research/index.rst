@@ -36,14 +36,14 @@
 `Constraining the Transport Processes of the Intracluster Medium with Cold Fronts <research/cold_fronts.html>`_
 ---------------------------------------------------------------------------------------------------------------------
 
-.. image:: /images/novisc.png
+.. image:: /images/virgo_temp.png
+   :target: research/cold_fronts.html
+   :width: 440px
+
+.. image:: /images/virgo_counts.png
    :target: research/cold_fronts.html
    :width: 400px
 
-.. image:: /images/visc.png
-   :target: research/cold_fronts.html
-   :width: 400px
-
 |
 |
 |
@@ -59,7 +59,9 @@
 |
 |
 |
-
+|
+|
+|
 
 
 `Turbulence, Particle Acceleration, and Radio Emission in Galaxy Clusters <research/radio_emission.html>`_

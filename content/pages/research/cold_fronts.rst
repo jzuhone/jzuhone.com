@@ -27,7 +27,7 @@ disrupt their smooth appearance.
    mozallowfullscreen allowFullScreen></iframe>
    </td>
    <tr><td>
-   Gas temperature.
+   Magnetic field strength.
    </td>
    </tr>
    </table>
@@ -41,7 +41,7 @@ disrupt their smooth appearance.
    </tr>
    <tr>
    <td>
-   Magnetic field strength.
+   Gas temperature.
    </td>
    </tr>
    </table>
@@ -81,23 +81,24 @@ isotropic ion viscosity is capable of preventing the development of
 K-H instabilities at sloshing cold fronts, as was shown to a certain
 extent by `ZuHone et al 2010
 <http://adsabs.harvard.edu/abs/2010ApJ...717..908Z>`_ and in fuller
-depth by `Roediger et al 2012 <http://adsabs.harvard.edu/abs/2013ApJ...764...60R>`_. However, for
+depth by `Roediger et al 2012 <http://adsabs.harvard.edu/abs/2013ApJ...764...60R>`_. 
+
+However, for
 similar reasons as conduction, the ion viscosity in the ICM should be
 highly anisotropic. Therefore, the suppression of instabilities will
-be weaker and dependent upon the magnetic field direction. We are
-currently pursuing a series of simulations of isotropic and
-anisotropic viscosity to investigate this portion of the parameter
-space. 
+be weaker and dependent upon the magnetic field direction. In `ZuHone et al 2014 <http://arxiv.org/abs/1406.4031>`_, we performed a set of simulations of gas sloshing with magnetic fields and various models for viscosity. We found that the combination of even weak magnetic fields and Braginskii (anisotropic) viscosity is sufficient to produce cold fronts that are consistent with observations in terms of supressing K-H instabilties. We also found that this situation may be approximated by an isotropic Spitzer viscosity with a suppression factor of f ~ 0.1. However, we also showed that the effect of the magnetic field is crucial; even if the viscosity is the same, simulations with and without magnetic fields produce qualitatively different results in terms of the degree of disruption of cold front surfaces by instabilities. 
 
-.. figure:: /images/novisc.png
+.. figure:: /images/virgo_temp.png
    :width: 100%
-   :figwidth: 300px
+   :figwidth: 440px
 
-   Inviscid simulation of sloshing cold fronts.
-
-.. figure:: /images/visc.png
+   Temperature slices for simulations with different models for viscosity. The "Inviscid"
+   results in prevalent K-H instabilities along most of the fronts, whereas the 
+   simulations with viscosity suppress these instabilities to varying degrees. 
+   
+.. figure:: /images/virgo_counts.png
    :width: 100%
-   :figwidth: 300px
+   :figwidth: 400px
 
-   Simulation of sloshing cold fronts with Spitzer-level isotropic viscosity in the core. 
-
+   Synthetic counts images of the same simulations (created using `yt's synthetic X-ray
+   observation simulator <../software/photon_simulator.html>`_)
