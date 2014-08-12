@@ -101,4 +101,4 @@ be weaker and dependent upon the magnetic field direction. In `ZuHone et al 2014
    :figwidth: 400px
 
    Synthetic counts images of the same simulations (created using `yt's synthetic X-ray
-   observation simulator <../software/photon_simulator.html>`_)
+   observation simulator <http://yt-project.org/doc/analyzing/analysis_modules/photon_simulator.html>`_)

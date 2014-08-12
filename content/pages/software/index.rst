@@ -18,20 +18,20 @@ Mock Observations with `yt <http://yt-project.org>`_
 
    <table align="left" style="font-size:12">
    <tr><td>
-   <a href="software/mock_SZ.html">S-Z Effect</a>
+   <a href="http://yt-project.org/doc/analyzing/analysis_modules/sunyaev_zeldovich.html">S-Z Effect</a>
    </td>
    <tr><td>
-   <a href="software/mock_SZ.html"><img src="/images/sz_link.png" style="width:400px" /></a>
+   <a href="http://yt-project.org/doc/analyzing/analysis_modules/sunyaev_zeldovich.html"><img src="/images/sz_link.png" style="width:400px" /></a>
    </td>
    </tr>
    </table>
 
    <table align="left" style="font-size:12">
    <tr><td>
-   <a href="software/photon_simulator.html">X-Rays</a>
+   <a href="http://yt-project.org/doc/analyzing/analysis_modules/photon_simulator.html">X-Rays</a>
    </td>
    <tr><td>
-   <a href="software/photon_simulator.html"><img src="/images/photon_link.png"
+   <a href="http://yt-project.org/doc/analyzing/analysis_modules/photon_simulator.html"><img src="/images/photon_link.png"
    style="width:370px" /></a>
    </td>
    </tr>
@@ -53,32 +53,38 @@ Mock Observations with `yt <http://yt-project.org>`_
 |
 |
 
-pywwt, a Python Interface for World Wide Telescope
---------------------------------------------------
+``YT``, a Julia wrapper for ``yt``
+----------------------------------
+
+.. figure:: /images/yt_julia.png
+   :align: left
+   :width: 100%
+   :figwidth: 200px
+
+`Julia <http://julialang.org>`_ is an exciting new programming language for technical computing. Julia is fast due to its just-in-time compiler, and has most of the mathematical functionality for carrying out calculations for scientific computing built-in. 
+
+To enable the analysis of astrophysical simulation data from within a Julia environment, I have written a package for Julia called ``YT``. ``YT`` exposes a number of the essential features of ``yt`` from within a Julia environment, including datasets, data containers, unit-aware quantities and arrays, and some of the plotting tools. 
+
+To find out more visit http://www.jzuhone.com/yt_julia.
+
+|
+|
+|
+
+``pywwt``, a Python Interface for World Wide Telescope
+------------------------------------------------------
+
+.. figure:: /images/minihalo.png
+   :align: right
+   :width: 100%
+   :figwidth: 200px
 
 ``pywwt`` is a Python interface for the Microsoft `World Wide Telescope <http://www.worldwidetelescope.org>`_
 (WWT) Windows client, using the
 `Layer Control API (LCAPI) <http://www.worldwidetelescope.org/Developers/?LayerControlAPI#load>`_.
-The LCAPI provides an interface to WWT's Layer Manager by sending data and information in the form of
-strings over HTTP. ``pywwt`` simply provides a Python interface to make these
-calls, enabling the control of WWT from scripts or an IPython notebook. Most importantly, it
-enables the passing of data created within a Python environment to
+
+The LCAPI provides an interface to WWT's Layer Manager by sending data and information in the form of strings over HTTP. ``pywwt`` simply provides a Python interface to make these
+calls, enabling the control of WWT from scripts or an IPython notebook. Most importantly, it enables the passing of data created within a Python environment to
 WWT.
 
 To find out more visit http://www.jzuhone.com/pywwt.
-
-.. figure:: /images/minihalo.png
-   :width: 100%
-   :figwidth: 800px
-
-.. Developing `FLASH <http://flash.uchicago.edu>`_ Modules
-   -------------------------------------------------------------------------------
-
-   +-----------------------------------+
-   | `Particles`_                      |
-   +===================================+
-   | .. figure:: /images/sz_link.png   |
-   |    :width: 100 %                  |
-   |    :target: software/mock_SZ.html |
-   +-----------------------------------+
-
