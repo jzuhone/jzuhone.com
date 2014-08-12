@@ -56,7 +56,7 @@ Mock Observations with `yt <http://yt-project.org>`_
 ``YT``, a Julia wrapper for ``yt``
 ----------------------------------
 
-.. figure:: /images/yt_julia.png
+.. figure:: /images/ytjulia.png
    :align: left
    :width: 100%
    :figwidth: 200px
