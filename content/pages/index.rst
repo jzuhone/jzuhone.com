@@ -4,17 +4,11 @@
 :save_as: index.html
 :status: hidden
 
-I am currently an astrophysicist at `NASA's Goddard Space Flight
-Center <http://astrophysics.gsfc.nasa.gov>`_, working on galaxy cluster
-merger simulations with `Maxim
-Markevitch <http://hea-www.harvard.edu/~maxim/>`_. I received my
-Bachelor of Science degree in physics from the `University of Illinois
+I am currently an astrophysicist at the `MIT Kavli Institute for Astrophysics and Space Research <http://space.mit.edu/>`_, working on galaxy cluster simulations with `Mark Bautz <http://space-live.mit.edu/people/bautz-marshall-w>`_. I received my Bachelor of Science degree in physics from the `University of Illinois
 at Urbana-Champaign <http://www.illinois.edu>`_, and my Master of
 Science and doctoral degrees in astronomy and astrophysics at the
 `University of Chicago <http://www.uchicago.edu>`_, working with `Don
-Lamb <http://astro.uchicago.edu/people/donald-q-lamb.shtml>`_. My first
-postdoc was at the `Harvard-Smithsonian Center for
-Astrophysics <http://www.cfa.harvard.edu>`_. 
+Lamb <http://astro.uchicago.edu/people/donald-q-lamb.shtml>`_. I previously worked with `Maxim Markevitch <http://hea-www.harvard.edu/~maxim/>`_ at the `Harvard-Smithsonian Center for Astrophysics <http://www.cfa.harvard.edu>`_ and at `NASA/Goddard Space Flight Center <http://astrophysics.gsfc.nasa.gov>`_. 
 
 .. figure:: /images/john.png
    :align: right
@@ -43,24 +37,24 @@ visualization and analysis of particle data, mock X-ray observations,
 and initial conditions generation. To find out more about my
 contributions to scientific software, go `here </pages/scientific-software.html>`_.
 
-`Curriculum Vita </files/zuhone_cv.pdf>`_
+`Curriculum Vitae </files/zuhone_cv.pdf>`_
 
 Papers on `arXiv <http://arxiv.org/find/all/1/all:+zuhone/0/1/0/all/0/1>`_, `ADS <http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PHY&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&aut_logic=OR&obj_logic=OR&author=zuhone&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=NDATE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1>`_
 
 +---------------------+--------------------------------------------------------------+
 | Contact Info        |                                                              |                          
 +=====================+==============================================================+
-| Mail:               | NASA/Goddard Space Flight Center                             |
+| Mail:               | MIT Kavli Institute                                          |
 +---------------------+--------------------------------------------------------------+
-|                     | 8800 Greenbelt Rd., Mail Code 662                            |
+|                     | 77 Massachusetts Ave., 37-582G                               |
 +---------------------+--------------------------------------------------------------+
-|                     | Greenbelt, MD 20771 	    	 	                     |
+|                     | Cambridge, MA 02139 	    	 	                     |
 +---------------------+--------------------------------------------------------------+
-| Phone:              | 301-286-2531			    	                     |
+| Phone:              | 617-253-2354			    	                     |
 +---------------------+--------------------------------------------------------------+
-| Fax:                | 301-286-0677                    	                     |
+| Fax:                | 617-253-0861                    	                     |
 +---------------------+--------------------------------------------------------------+
-| Email:              | john.zuhone@nasa.gov                                         |
+| Email:              | jzuhone@space.mit.edu                                        |
 +---------------------+--------------------------------------------------------------+
 | Twitter:            | `@astrojaz <http://twitter.com/astrojaz>`_	             |
 +---------------------+--------------------------------------------------------------+
