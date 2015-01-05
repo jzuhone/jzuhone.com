@@ -1,38 +1,5 @@
 :title: Research
 
-`Simulating Observed Cluster Mergers <research/observed_mergers.html>`_
--------------------------------------------------------------------------------
-
-.. figure:: {filename}/images/dmring.png                                                                       
-   :target: research/observed_mergers.html
-   :width: 800px
-   :figwidth: 100 %	
-
-`Mixing of the ICM and Gas Heating <research/mixing.html>`_
--------------------------------------------------------------------------------
-
-.. image:: {filename}/images/mixing1.png
-   :target: research/mixing.html
-
-.. image:: {filename}/images/mixing2.png
-   :target: research/mixing.html
-   :width: 400px
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-
 `Constraining the Transport Processes of the Intracluster Medium with Cold Fronts <research/cold_fronts.html>`_
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -60,9 +27,6 @@
 |
 |
 |
-|
-|
-
 
 `Turbulence, Particle Acceleration, and Radio Emission in Galaxy Clusters <research/radio_emission.html>`_
 ------------------------------------------------------------------------------------------------------------
@@ -78,4 +42,35 @@
 |
 |
 |
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+`Simulating Observed Cluster Mergers <research/observed_mergers.html>`_
+-------------------------------------------------------------------------------
+
+.. figure:: {filename}/images/dmring.png                                                                       
+   :target: research/observed_mergers.html
+   :width: 800px
+   :figwidth: 100 %	
+
+`Mixing of the ICM and Gas Heating <research/mixing.html>`_
+-------------------------------------------------------------------------------
+
+.. image:: {filename}/images/mixing1.png
+   :target: research/mixing.html
+
+.. image:: {filename}/images/mixing2.png
+   :target: research/mixing.html
+   :width: 400px
 

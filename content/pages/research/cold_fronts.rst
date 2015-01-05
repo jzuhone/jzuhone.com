@@ -27,7 +27,7 @@ disrupt their smooth appearance.
    mozallowfullscreen allowFullScreen></iframe>
    </td>
    <tr><td>
-   Magnetic field strength.
+   Figure 1b: Magnetic field strength.
    </td>
    </tr>
    </table>
@@ -41,7 +41,7 @@ disrupt their smooth appearance.
    </tr>
    <tr>
    <td>
-   Gas temperature.
+   Figure 1a: Gas temperature.
    </td>
    </tr>
    </table>
@@ -50,25 +50,25 @@ However, most cold fronts are observed to be very smooth and sharp, so there mus
 support the existence of these features. One possible mechanism is magnetic fields. The velocity shear
 associated with a cold front can amplify the weak cluster magnetic
 fields to near-equipartition strengths, and stretch the field lines
-tangential to the front surface. Due to the small Larmor radii of
+tangential to the front surface (Figure 1b). Due to the small Larmor radii of
 electrons in the $\\mu$G cluster magnetic field, heat conduction is
 strongly anisotropic, occurring essentially only along the field
 lines. Therefore, a magnetic field stretched parallel to the front
-surface would shield the temperature gradient from heat conduction.In `ZuHone et al 2011 <http://adsabs.harvard.edu/abs/2011ApJ...743...16Z>`_ we performed a series of simulations of sloshing cold front formation in a magnetized ICM. We varied the overall magnetic field strength of the cluster and the degree to which it is tangled on small scales. We found that for initial magnetic field energies ~1% of the thermal energy, the field is stretched and amplified to such a degree that most cold fronts can be stabilized against the development of fluid instabilities. Large-radii cold fronts, where the field is weaker, are more susceptible to the development of instabilities. 
+surface would shield the temperature gradient from heat conduction.In `ZuHone et al 2011 <http://adsabs.harvard.edu/abs/2011ApJ...743...16Z>`_ we performed a series of simulations of sloshing cold front formation in a magnetized ICM. We varied the overall magnetic field strength of the cluster and the degree to which it is tangled on small scales. We found that for initial magnetic field energies ~1% of the thermal energy, the field is stretched and amplified to such a degree that most cold fronts can be stabilized against the development of fluid instabilities (Figure 2). Large-radii cold fronts, where the field is weaker, are more susceptible to the development of instabilities. 
 
 .. figure:: /images/temps.png
    :width: 100%
    :figwidth: 300px
 
-   Slices of gas temperature for simulations with different initial
+   Figure 2a: Slices of gas temperature for simulations with different initial
    plasma $\\beta$. 
 
 .. figure:: /images/bfields.png
    :width: 100%
    :figwidth: 300px
 
-   Slices of plasma $\\beta$. As the initial magnetic field strength is increased, Kelvin-Helmholtz
-   instabilities are increasingly suppressed.
+   Figure 2b: Slices of plasma $\\beta$. As the initial magnetic field strength is 
+   increased, Kelvin-Helmholtz instabilities are increasingly suppressed.
 
 
 However, we found that the ability of magnetic fields to suppress heat
@@ -81,24 +81,24 @@ isotropic ion viscosity is capable of preventing the development of
 K-H instabilities at sloshing cold fronts, as was shown to a certain
 extent by `ZuHone et al 2010
 <http://adsabs.harvard.edu/abs/2010ApJ...717..908Z>`_ and in fuller
-depth by `Roediger et al 2012 <http://adsabs.harvard.edu/abs/2013ApJ...764...60R>`_. 
+depth by `Roediger et al 2013 <http://adsabs.harvard.edu/abs/2013ApJ...764...60R>`_. 
 
 However, for
 similar reasons as conduction, the ion viscosity in the ICM should be
 highly anisotropic. Therefore, the suppression of instabilities will
-be weaker and dependent upon the magnetic field direction. In `ZuHone et al 2014 <http://arxiv.org/abs/1406.4031>`_, we performed a set of simulations of gas sloshing with magnetic fields and various models for viscosity. We found that the combination of even weak magnetic fields and Braginskii (anisotropic) viscosity is sufficient to produce cold fronts that are consistent with observations in terms of supressing K-H instabilties. We also found that this situation may be approximated by an isotropic Spitzer viscosity with a suppression factor of f ~ 0.1. However, we also showed that the effect of the magnetic field is crucial; even if the viscosity is the same, simulations with and without magnetic fields produce qualitatively different results in terms of the degree of disruption of cold front surfaces by instabilities. 
+be weaker and dependent upon the magnetic field direction. In `ZuHone et al 2014 <http://arxiv.org/abs/1406.4031>`_, we performed a set of simulations of gas sloshing with magnetic fields and various models for viscosity. We found that the combination of even weak magnetic fields and Braginskii (anisotropic) viscosity is sufficient to produce cold fronts that are consistent with observations in terms of supressing K-H instabilties. We also found that this situation may be approximated by an isotropic Spitzer viscosity with a suppression factor of f ~ 0.1 (Figure 3). However, we also showed that the effect of the magnetic field is crucial; even if the viscosity is the same, simulations with and without magnetic fields produce qualitatively different results in terms of the degree of disruption of cold front surfaces by instabilities. 
 
 .. figure:: /images/virgo_temp.png
    :width: 100%
    :figwidth: 440px
 
-   Temperature slices for simulations with different models for viscosity. The "Inviscid"
-   results in prevalent K-H instabilities along most of the fronts, whereas the 
+   Figure 3a: Temperature slices for simulations with different models for viscosity. The 
+   "Inviscid" results in prevalent K-H instabilities along most of the fronts, whereas the 
    simulations with viscosity suppress these instabilities to varying degrees. 
    
 .. figure:: /images/virgo_counts.png
    :width: 100%
    :figwidth: 400px
 
-   Synthetic counts images of the same simulations (created using `yt's synthetic X-ray
+   Figure 3b: Synthetic counts images of the same simulations (created using `yt's synthetic X-ray
    observation simulator <http://yt-project.org/doc/analyzing/analysis_modules/photon_simulator.html>`_)
