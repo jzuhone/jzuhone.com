@@ -2,6 +2,21 @@
 
 These are some recent talks I have given. 
 
+| "Chandra, Cold Fronts, and ICM Physics: the Importance of Magnetic Fields"
+| Talk, "15 Years of Science with Chandra" Symposium
+| November 2014, Boston, MA. 
+|
+
+.. raw:: html
+
+   <iframe src="//www.slideshare.net/slideshow/embed_code/41803746?rel=0" 
+   width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" 
+   scrolling="no"></iframe>
+
+|
+|
+|
+   
 | "Gas Sloshing: Simulations and Observations"
 | Talk, "ICM Inhomogeneities in the Intracluster Plasma" Workshop
 | July 2014, Stanford, CA.
