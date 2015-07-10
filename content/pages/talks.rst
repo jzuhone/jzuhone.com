@@ -2,6 +2,22 @@
 
 These are some recent talks I have given. 
 
+| "Galaxy Cluster Gas Motions and Astro-H: Predictions and Challenges from Simulations"
+| Talk, Groups, Clusters, and Galaxies Seminar at the `CfA <http://www.cfa.harvard.edu>`_
+| May 2015, Cambridge, MA
+|
+
+.. raw:: html
+
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/key/10vu1laTkLxH2t" 
+	width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" 
+	scrolling="no"></iframe>
+
+|
+|
+|
+
+	
 | "Chandra, Cold Fronts, and ICM Physics: the Importance of Magnetic Fields"
 | Talk, "15 Years of Science with Chandra" Symposium
 | November 2014, Boston, MA. 
@@ -43,6 +59,21 @@ These are some recent talks I have given.
    src="//www.youtube.com/embed/fUMq6rmNshc?list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog" 
    frameborder="0" allowfullscreen></iframe>
    
+|
+|
+|
+
+| "Bullets and Wine Glasses: The Exciting Encounters of Galaxy Clusters"
+| Public talk, Eastern Illinois University
+| February 2014, Charleston, IL
+|
+
+.. raw:: html
+
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/key/gXmEOEz6Bk2ABE" 
+	width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" 
+	scrolling="no"></iframe>
+	
 |
 |
 |
