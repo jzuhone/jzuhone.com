@@ -1,34 +1,5 @@
 :title: Research
 
-`Mapping Gas Motions in Galaxy Clusters <research/gas_motions.html>`_
--------------------------------------------------------------------------------------------------
-
-.. image:: /images/big_cross.png
-   :target: research/gas_motions.html
-   :width: 350px
-
-.. image:: /images/astroh_cf.png
-   :target: research/gas_motions.html
-   :width: 450px
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
 `Constraining the Transport Processes of the Intracluster Medium with Cold Fronts <research/cold_fronts.html>`_
 ---------------------------------------------------------------------------------------------------------------------
 
