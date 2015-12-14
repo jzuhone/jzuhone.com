@@ -22,8 +22,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/astrojaz'),
-          ('google-plus', 'http://plus.google.com/+JohnZuhone'),)
+SOCIAL = (('twitter', 'http://twitter.com/astrojaz'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -40,4 +39,3 @@ RESPONSIVE_IMAGES=True
 STATIC_PATHS = ["images","files"]
 
 TWITTER_URL = 'http://twitter.com/astrojaz'
-GOOGLEPLUS_URL = 'http://plus.google.com/+JohnZuHone'
