@@ -3,11 +3,11 @@
 `Constraining the Transport Processes of the Intracluster Medium with Cold Fronts <research/cold_fronts.html>`_
 ---------------------------------------------------------------------------------------------------------------------
 
-.. image:: /images/virgo_temp1.png
+.. image:: {filename}/images/virgo_temp1.png
    :target: research/cold_fronts.html
    :width: 400px
 
-.. image:: /images/virgo_counts1.png
+.. image:: {filename}/images/virgo_counts1.png
    :target: research/cold_fronts.html
    :width: 400px
 
@@ -33,11 +33,11 @@
 `Turbulence, Particle Acceleration, and Radio Emission in Galaxy Clusters <research/radio_emission.html>`_
 ------------------------------------------------------------------------------------------------------------
 
-.. image:: /images/minihalo1.png
+.. image:: {filename}/images/minihalo1.png
    :target: research/radio_emission.html
    :width: 390px
 
-.. image:: /images/minihalo2.png
+.. image:: {filename}/images/minihalo2.png
    :target: research/radio_emission.html
    :width: 400px
 

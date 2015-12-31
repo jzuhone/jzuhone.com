@@ -12,10 +12,11 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=jzuhone.com
+SSH_HOST=loki.cfa.harvard.edu
 SSH_PORT=22
 SSH_USER=jzuhone
-SSH_TARGET_DIR=/home/jzuhone/jzuhone.com/main
+#SSH_TARGET_DIR=/home/jzuhone/jzuhone.com/main
+SSH_TARGET_DIR=/data/wdocs/jzuhone
 
 S3_BUCKET=my_s3_bucket
 

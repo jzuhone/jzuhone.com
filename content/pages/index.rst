@@ -3,18 +3,18 @@
 :URL:
 :save_as: index.html
 :status: hidden
-    
-I am currently an astrophysicist at the `Harvard-Smithsonian Center for Astrophysics <http://www.cfa.harvard.edu/>`_ 
-(CfA), working at the `Chandra X-ray Center <http://cxc.harvard.edu>`_ in the 
+
+I am currently an astrophysicist at the `Harvard-Smithsonian Center for Astrophysics <http://www.cfa.harvard.edu/>`_
+(CfA), working at the `Chandra X-ray Center <http://cxc.harvard.edu>`_ in the
 `ACIS Operations Team <http://cxc.cfa.harvard.edu/acis/home.html>`_. I previously held postdoctoral appointments at
 `MIT Kavli Institute <http://space.mit.edu>`_, `NASA/Goddard Space Flight Center <http://astrophysics.gsfc.nasa.gov>`_,
-and the CfA. I received my Bachelor of Science degree in physics from the 
-`University of Illinois at Urbana-Champaign <http://www.illinois.edu>`_, and my Master of Science and doctoral degrees 
-in astronomy and astrophysics at the `University of Chicago <http://www.uchicago.edu>`_, working with 
-`Don Lamb <http://astro.uchicago.edu/people/donald-q-lamb.shtml>`_. 
+and the CfA. I received my Bachelor of Science degree in physics from the
+`University of Illinois at Urbana-Champaign <http://www.illinois.edu>`_, and my Master of Science and doctoral degrees
+in astronomy and astrophysics at the `University of Chicago <http://www.uchicago.edu>`_, working with
+`Don Lamb <http://astro.uchicago.edu/people/donald-q-lamb.shtml>`_.
 
 
-.. figure:: /images/john.png
+.. figure:: {filename}/images/john.png
   :align: right
 
 My main research interests are merging galaxy clusters and the physics
