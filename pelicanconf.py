@@ -28,8 +28,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-#THEME = "/Users/jzuhone/Source/pelican-themes/pelican-bootstrap3"
-THEME = "gum"
+THEME = "/Users/jzuhone/Source/pelican-themes/gum"
 
 PLUGIN_PATH = "/Users/jzuhone/Source/pelican-plugins"
 PLUGINS = ["latex","pelican_vimeo"]
