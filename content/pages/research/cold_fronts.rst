@@ -36,7 +36,7 @@ disrupt their smooth appearance.
    <tr><td>
    <iframe src="http://player.vimeo.com/video/78989362?title=0&amp;byline=0&amp;portrait=0" width="300"
    height="275" align="right" frameborder="0" webkitAllowFullScreen
-   mozallowfullscreen allowFullScreen></iframe> 
+   mozallowfullscreen allowFullScreen></iframe>
    </td>
    </tr>
    <tr>
@@ -54,25 +54,25 @@ tangential to the front surface (Figure 1b). Due to the small Larmor radii of
 electrons in the $\\mu$G cluster magnetic field, heat conduction is
 strongly anisotropic, occurring essentially only along the field
 lines. Therefore, a magnetic field stretched parallel to the front
-surface would shield the temperature gradient from heat conduction.In `ZuHone et al 2011 <http://adsabs.harvard.edu/abs/2011ApJ...743...16Z>`_ we performed a series of simulations of sloshing cold front formation in a magnetized ICM. We varied the overall magnetic field strength of the cluster and the degree to which it is tangled on small scales. We found that for initial magnetic field energies ~1% of the thermal energy, the field is stretched and amplified to such a degree that most cold fronts can be stabilized against the development of fluid instabilities (Figure 2). Large-radii cold fronts, where the field is weaker, are more susceptible to the development of instabilities. 
+surface would shield the temperature gradient from heat conduction.In `ZuHone et al 2011 <http://adsabs.harvard.edu/abs/2011ApJ...743...16Z>`_ we performed a series of simulations of sloshing cold front formation in a magnetized ICM. We varied the overall magnetic field strength of the cluster and the degree to which it is tangled on small scales. We found that for initial magnetic field energies ~1% of the thermal energy, the field is stretched and amplified to such a degree that most cold fronts can be stabilized against the development of fluid instabilities (Figure 2). Large-radii cold fronts, where the field is weaker, are more susceptible to the development of instabilities.
 
-.. figure:: /images/temps.png
+.. figure:: {filename}/images/temps.png
    :width: 100%
    :figwidth: 300px
 
    Figure 2a: Slices of gas temperature for simulations with different initial
-   plasma $\\beta$. 
+   plasma $\\beta$.
 
-.. figure:: /images/bfields.png
+.. figure:: {filename}/images/bfields.png
    :width: 100%
    :figwidth: 300px
 
-   Figure 2b: Slices of plasma $\\beta$. As the initial magnetic field strength is 
+   Figure 2b: Slices of plasma $\\beta$. As the initial magnetic field strength is
    increased, Kelvin-Helmholtz instabilities are increasingly suppressed.
 
 
 However, we found that the ability of magnetic fields to suppress heat
-conduction across cold fronts in this scenario is limited. In `ZuHone et al 2013 <http://adsabs.harvard.edu/abs/2013ApJ...762...69Z>`_ we re-simulated our magnetized sloshing cold fronts with anisotropic thermal conduction. We found that despite the formation of magnetic field lines draped tangentially to the front surfaces, conduction is not fully suppressed and the temperature jumps can be significantly reduced, to the point where the corresponding surface brightness jumps would not be seen in observations. This is due to the fact that the magnetic field layers are not perfectly aligned with the cold front surfaces, and some heat flux is able to "leak through." This potentially places strong constraints on heat conduction in the bulk of the ICM. 
+conduction across cold fronts in this scenario is limited. In `ZuHone et al 2013 <http://adsabs.harvard.edu/abs/2013ApJ...762...69Z>`_ we re-simulated our magnetized sloshing cold fronts with anisotropic thermal conduction. We found that despite the formation of magnetic field lines draped tangentially to the front surfaces, conduction is not fully suppressed and the temperature jumps can be significantly reduced, to the point where the corresponding surface brightness jumps would not be seen in observations. This is due to the fact that the magnetic field layers are not perfectly aligned with the cold front surfaces, and some heat flux is able to "leak through." This potentially places strong constraints on heat conduction in the bulk of the ICM.
 
 Another candidate for preventing the development of fluid
 instabilities at cold front surfaces is viscosity. Little is currently
@@ -81,22 +81,22 @@ isotropic ion viscosity is capable of preventing the development of
 K-H instabilities at sloshing cold fronts, as was shown to a certain
 extent by `ZuHone et al 2010
 <http://adsabs.harvard.edu/abs/2010ApJ...717..908Z>`_ and in fuller
-depth by `Roediger et al 2013 <http://adsabs.harvard.edu/abs/2013ApJ...764...60R>`_. 
+depth by `Roediger et al 2013 <http://adsabs.harvard.edu/abs/2013ApJ...764...60R>`_.
 
 However, for
 similar reasons as conduction, the ion viscosity in the ICM should be
 highly anisotropic. Therefore, the suppression of instabilities will
-be weaker and dependent upon the magnetic field direction. In `ZuHone et al 2014 <http://arxiv.org/abs/1406.4031>`_, we performed a set of simulations of gas sloshing with magnetic fields and various models for viscosity. We found that the combination of even weak magnetic fields and Braginskii (anisotropic) viscosity is sufficient to produce cold fronts that are consistent with observations in terms of supressing K-H instabilties. We also found that this situation may be approximated by an isotropic Spitzer viscosity with a suppression factor of f ~ 0.1 (Figure 3). However, we also showed that the effect of the magnetic field is crucial; even if the viscosity is the same, simulations with and without magnetic fields produce qualitatively different results in terms of the degree of disruption of cold front surfaces by instabilities. 
+be weaker and dependent upon the magnetic field direction. In `ZuHone et al 2014 <http://arxiv.org/abs/1406.4031>`_, we performed a set of simulations of gas sloshing with magnetic fields and various models for viscosity. We found that the combination of even weak magnetic fields and Braginskii (anisotropic) viscosity is sufficient to produce cold fronts that are consistent with observations in terms of supressing K-H instabilties. We also found that this situation may be approximated by an isotropic Spitzer viscosity with a suppression factor of f ~ 0.1 (Figure 3). However, we also showed that the effect of the magnetic field is crucial; even if the viscosity is the same, simulations with and without magnetic fields produce qualitatively different results in terms of the degree of disruption of cold front surfaces by instabilities.
 
-.. figure:: /images/virgo_temp.png
+.. figure:: {filename}/images/virgo_temp.png
    :width: 100%
    :figwidth: 440px
 
-   Figure 3a: Temperature slices for simulations with different models for viscosity. The 
-   "Inviscid" results in prevalent K-H instabilities along most of the fronts, whereas the 
-   simulations with viscosity suppress these instabilities to varying degrees. 
-   
-.. figure:: /images/virgo_counts.png
+   Figure 3a: Temperature slices for simulations with different models for viscosity. The
+   "Inviscid" results in prevalent K-H instabilities along most of the fronts, whereas the
+   simulations with viscosity suppress these instabilities to varying degrees.
+
+.. figure:: {filename}/images/virgo_counts.png
    :width: 100%
    :figwidth: 400px
 
